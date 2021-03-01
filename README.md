@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-@tunip3 made me do this. You can talk about their cat to her if you want.
+@tunip3 made me do this. You can talk about their cat to them if you want.
 
 
 - 🔭 I’m currently working on libLassebq, updating damn RussellNX
