@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**nkrapivin/nkrapivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@tunip3 made me do this. You can talk about their cat to her if you want.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on libLassebq, updating damn RussellNX
+- 🌱 I’m currently learning Detours and function hooking
+- 👯 I’m looking to collaborate on cat petting
+- 🤔 I’m looking for help with C++ and possibly Microsoft Detours
+- 💬 Ask me about GameMaker/C++ or cats (felines)
+- 📫 How to reach me:
+    - Discord nik#5351,
+    - E-Mail whatever@nkrapivindev.ddns.net,
+    - VK vk.com/nkrapivindev
+- 😄 Pronouns: he/him/meow
+- ⚡ Fun fact: cats are cute and there's nothing you can do about it.
