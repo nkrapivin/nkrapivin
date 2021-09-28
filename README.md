@@ -3,7 +3,7 @@
 @tunip3 made me do this. You can talk about their cat to them if you want.
 
 
-- 🔭 I’m currently working updating damn RussellNX
+- 🔭 I’m currently working on reversing the GXC.gg service.
 - 🌱 I’m currently learning nothing in particular
 - 👯 I’m looking to collaborate on cat petting
 - 🤔 I’m looking for help with C++ and possibly C#
