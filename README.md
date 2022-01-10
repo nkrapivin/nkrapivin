@@ -10,7 +10,7 @@
 - 💬 Ask me about GameMaker/C++ or cats (felines)
 - 📫 How to reach me:
     - Discord nik#5351,
-    - E-Mail whatever@nkrapivindev.ddns.net,
+    - E-Mail whatever@nkrapivindev.duckdns.org,
     - VK vk.com/nkrapivindev
 - 😄 Pronouns: he/him/meow
 - ⚡ Fun fact: cats are cute and there's nothing you can do about it.
