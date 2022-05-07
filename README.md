@@ -4,7 +4,19 @@ I really don't like emotes so that wave will be the first and the last.
 
 <!-- and I also hate markdown... >:( -->
 
-My name's Nik, or Nikita Krapivin if you prefer boring legal names, I speak English and Russian, my timezone is UTC+05 or MSK+02, here's a (somewhat) short list of my activities:
+My name's Nik, or Nikita Krapivin if you prefer boring legal names, I speak English and Russian, my timezone is UTC+05 or MSK+02.
+
+# How to reach me
+
+- Discord: nik (octothorpe) 5351
+- E-Mail: basically the email I use for my git commits, well, alienoom (the at symbol) yandex (dot) ru
+- Twitter: (at) nkrapivindev
+- GitHub: you're here!
+- VK (Russian only please): (at) nkrapivindev
+
+I'm also present at some Discord servers related to GameMaker research like Underminers and the GameMaker Kitchen.
+
+Oh, right, here's a (somewhat) short list of my activities:
 
 ## Making native extensions for GameMaker
 
@@ -105,19 +117,5 @@ My name's Nik, or Nikita Krapivin if you prefer boring legal names, I speak Engl
     GML -> C++ (engine) -> JNI -> Java (engine java code) -> JNI -> C/C++ (your extension)
     
     And JniGen allows to automate this process a little.
-    
-# How to reach me
-
-Discord: nik (octothorpe) 5351
-
-E-Mail: basically the email I use for my git commits, well, alienoom (the at symbol) yandex (dot) ru
-
-Twitter: (at) nkrapivindev
-
-GitHub: you're here!
-
-VK (Russian only please): (at) nkrapivindev
-
-I'm also present at some Discord servers related to GameMaker research like Underminers and the GameMaker Kitchen.
 
 See ya~
