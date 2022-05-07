@@ -6,6 +6,8 @@ I really don't like emotes so that wave will be the first and the last.
 
 My name's Nik, or Nikita Krapivin if you prefer boring legal names, I speak English and Russian, my timezone is UTC+05 or MSK+02.
 
+I'm 16 years old and a student at PAT.
+
 # How to reach me
 
 - Discord: nik (octothorpe) 5351
