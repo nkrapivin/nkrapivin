@@ -1,12 +1,12 @@
 ### Hello 👋!
 
-I really don't like emotes so that wave will be the first and the last.
+I don't really like emotes so that wave will be the first and the last.
 
 <!-- and I also hate markdown... >:( -->
 
 My name's Nik, or Nikita Krapivin if you prefer boring legal names, I speak English and Russian, my timezone is UTC+05 or MSK+02.
 
-I'm 16 years old and a student at PAT.
+I'm 17 years old, my current occupation is doing console ports.
 
 # How to reach me
 
@@ -18,9 +18,89 @@ I'm 16 years old and a student at PAT.
 
 I'm also present at some Discord servers related to GameMaker research like Underminers and the GameMaker Kitchen.
 
-Oh, right, here's a (somewhat) short list of my activities:
+Oh, right, here's a list of my activities, boring adults call this a CV:
 
-## Making native extensions for GameMaker
+## Console Ports!
+
+- [Wally and the FANTASTIC PREDATORS](https://www.coolasheck.com/)
+
+    My first ever commercial console port! Out on Xbox One/Series (back compat), PlayStation 4/5 (back compat) and the Nintendo Switch.
+  
+    Uses [Kotfile](https://github.com/nkrapivin/kotfile) for saving and [NekoPresence](https://github.com/nkrapivin/NekoPresence) for Discord Rich Presence.
+  
+    The leaderboards and cloud save servers for the VK Play version are powered by [Kotodoski](https://github.com/nkrapivin/kotodoski) and [Deta Space](https://deta.space).
+  
+    Made with GameMaker.
+
+- [Space Scavengers](https://store.playstation.com/en-us/product/UP5464-CUSA32885_00-3922659958247696)
+
+    A pretty simple game that I ported to PlayStation 4/5 (back compat) in a few weeks, has PSN leaderboards and trophies.
+  
+    Uses [Kotfile](https://github.com/nkrapivin/kotfile) for saving.
+  
+    Can't say much else about it, it's just a simple game.
+  
+    Made with GameMaker.
+
+- [Deep Space Shooter](https://www.nintendo.com/store/products/deep-space-shooter-switch)
+
+    Ported for Valkyrie Initiative to the Nintendo Switch.
+  
+    Made with GameMaker.
+
+- [Hunahpu Quest. Mechanoid](https://www.nintendo.com/store/products/hunahpu-quest-mechanoid-switch)
+
+    Ported for Valkyrie Initiative to the Nintendo Switch.
+  
+    Made with Unity. My first ever experience with this engine, actually.
+
+- [Stones Keeper](https://www.nintendo.com/store/products/stones-keeper-switch)
+
+    Ported for Valkyrie Initiative to the Nintendo Switch (Xbox One planned in the far future).
+  
+    (Was?) Made with a custom engine in C++ and Windows's OpenGL (WGL), also Audiere as the audio backend.
+
+    I integrated the SDL2 library for controls, saving and pretty much everything. This worked well on the Switch.
+
+    (Thanks to Ryan "icculus" C. Gordon, Ethan "flibitijibibo" Lee and many others for maintaining the Nintendo Switch port of SDL2!!)
+
+    Then I replaced the Audiere backend with mojoAL since Audiere is licensed under LGPL and I couldn't use it on the Switch.
+
+    After all of my changes I was also able to run this game on the Xbox One with relative ease,
+
+    however, some things in SDL2 for GDK were not implemented, so I [implemented](https://github.com/libsdl-org/SDL/pulls?q=is%3Apr+author%3Ankrapivin) them and contributed my code back.
+
+    Overall this was the coolest projet to work on, looking forward to more Xbox/GDKX stuff.
+
+- [The Excrawlers](https://www.nintendo.com/store/products/the-excrawlers-switch)
+
+   Ported for Valkyrie Initiative to the Nintendo Switch.
+
+   Had to tweak the controls a little, and also saving.
+
+   Made with GameMaker.
+
+- [The Sin](https://www.nintendo.com/store/products/the-sin-switch)
+
+   Ported for Valkyrie Initiative to the Nintendo Switch.
+
+   My first ever Ren'Py port!
+
+   This is a kinetic visual novel with no interactions and the default Ren'Py UI,
+
+   so it was a good first candidate for porting, which also proved that my port passes Lotcheck.
+
+- [Athanasy](https://www.nintendo.com/store/products/athanasy-switch)
+
+   Ported for Valkyrie Initiative to the Nintendo Switch.
+
+   My second Ren'Py port! This time a more complex VN.
+
+   Thanks to the original dev team for helping out with art assets.
+
+ - ... and more to come!
+
+## Native extensions for GameMaker
 
 - [NekoPresence](https://github.com/nkrapivin/NekoPresence)
 
@@ -40,7 +120,7 @@ Oh, right, here's a (somewhat) short list of my activities:
     
     It's using Direct2D for rendering and accepts GML surfaces as canvases.
 
-## Making GML libraries for GameMaker
+## GML libraries for GameMaker
 
 - [Kotfile](https://github.com/nkrapivin/kotfile)
 
@@ -62,20 +142,6 @@ Oh, right, here's a (somewhat) short list of my activities:
 
     A pure-GML implementation of the UPnP protocol, very useful if you want to do automatic port forwarding in a multiplayer game on a compatible router.
 
-## Fixing YoYoGames's mistakes
-
-- [Zeus Plugin Loader](https://github.com/ZeusPlugins/ZeusPluginLoader)
-
-    This is a thing to load C# plugins into the GameMaker IDE.
-    
-    There's not much I can say about it other than it's still not an official feature for whatever reason.
-
-- [nikXfix](https://gist.github.com/nkrapivin/452c1509559cff0945f141910aa098a8)
-
-    A very small C library that "fixes" non-English layouts in the Linux export by unsetting the X11 language bit when the engine tries to read keyboard input.
-    
-    This is currently used in [Mondealy: Day One](https://store.steampowered.com/app/1591570/Mondealy_Day_One/)
-
 - I also made workarounds for some issues with the new Steamworks extension on Linux, but nowadays they're obsolete due to the Steam Runtime migration on YoYo's side.
 
 ## ...and basically doing what YoYon't (I'm sorry)
@@ -87,12 +153,6 @@ Oh, right, here's a (somewhat) short list of my activities:
 - [bktGlitchFilter](https://github.com/nkrapivin/bktGlitchFilter)
 
     Same thing except it's a port of odditica's bktGlitch shader.
-    
-- [Rouselle](https://github.com/nkrapivin/Rouselle)
-
-    A browser extension to bypass the Opera GX check in the Opera GX (aka WebAssembly) GameMaker export.
-    
-    No need to install that weird sketchy browser. Use your fav. Firefox or Chrome. <3
 
 ## Reverse engineering work that's not related to YoYoGames
 
@@ -120,4 +180,8 @@ Oh, right, here's a (somewhat) short list of my activities:
     
     And JniGen allows to automate this process a little.
 
+
 See ya~
+
+
+<!-- +10 points if you read this -->
