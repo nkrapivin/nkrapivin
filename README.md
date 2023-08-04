@@ -98,7 +98,23 @@ Oh, right, here's a list of my activities, boring adults call this a CV:
 
    Thanks to the original dev team for helping out with art assets.
 
- - ... and more to come!
+ - [OMNIMUS](https://www.nintendo.com/store/products/omnimus-switch)
+
+   Ported for Valkyrie Initiative to the Nintendo Switch.
+
+   My third Ren'Py port! This time with video playback and system on-screen keyboard integration.
+
+   Thanks to the developer for providing all the art assets to our team and being very helpful in general.
+
+- [Mondealy](https://www.nintendo.com/store/products/mondealy-switch)
+
+  Ported for Valkyrie Initiative to the Nintendo Switch, Xbox One + Series X|S + PC (Xbox Live), GOG (Galaxy SDK), VK Play (Fume) and Linux (Steam Deck)!
+
+  (PlayStation 4/5 and macOS coming soon hopefully...)
+
+  The biggest porting project so far! Also uses [NekoPresence](https://github.com/nkrapivin/NekoPresence) for Discord Rich Presence on PC.
+
+  Denis is very cool I hope you have a very awesome life!!!
 
 ## Native extensions for GameMaker
 
