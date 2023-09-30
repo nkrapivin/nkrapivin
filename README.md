@@ -6,7 +6,7 @@ I don't really like emotes so that wave will be the first and the last.
 
 My name's Nik, or Nikita Krapivin if you prefer boring legal names, I speak English and Russian, my timezone is UTC+05 or MSK+02.
 
-I'm 17 years old, my current occupation is doing console ports.
+I'm 17 years old, my current occupation is doing console ports. I (currently) study at [PMK](https://pmkedu.pro)
 
 # How to reach me
 
