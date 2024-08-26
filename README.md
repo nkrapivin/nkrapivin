@@ -6,11 +6,11 @@ I don't really like emotes so that wave will be the first and the last.
 
 My name's Nik, or Nikita Krapivin if you prefer boring legal names, I speak English and Russian, my timezone is UTC+05 or MSK+02.
 
-I'm 17 years old, my current occupation is doing console ports. I (currently) study at [PMK](https://pmkedu.pro)
+I'm 19 years old, my current occupation is doing console ports. I (currently) study at [PMK](https://pmkedu.pro)
 
 # How to reach me
 
-- Discord: nik (octothorpe) 5351
+- Discord: nik5351
 - E-Mail: basically the email I use for my git commits, well, alienoom (the at symbol) yandex (dot) ru
 - Twitter: (at) nkrapivindev
 - GitHub: you're here!
@@ -108,13 +108,17 @@ Oh, right, here's a list of my activities, boring adults call this a CV:
 
 - [Mondealy](https://www.nintendo.com/store/products/mondealy-switch)
 
-  Ported for Valkyrie Initiative to the Nintendo Switch, Xbox One + Series X|S + PC (Xbox Live), GOG (Galaxy SDK), VK Play (Fume) and Linux (Steam Deck)!
+   Ported for Valkyrie Initiative to the Nintendo Switch, Xbox One + Series X|S + PC (Xbox Live), PlayStation 4, GOG (Galaxy SDK), VK Play (Fume) and Linux (Steam Deck)!
 
-  (PlayStation 4/5 and macOS coming soon hopefully...)
+   The biggest porting project so far! Also uses [NekoPresence](https://github.com/nkrapivin/NekoPresence) for Discord Rich Presence on PC.
 
-  The biggest porting project so far! Also uses [NekoPresence](https://github.com/nkrapivin/NekoPresence) for Discord Rich Presence on PC.
+   Denis is very cool I hope you have a very awesome life!!!
 
-  Denis is very cool I hope you have a very awesome life!!!
+- [Skelethrone: The Chronicles of Ericona](https://store.steampowered.com/app/2139840/Skelethrone_The_Chronicles_of_Ericona)
+
+   Ported for Valkyrie Initiative to the Nintendo Switch, Xbox One + Series X|S + PC (Xbox Live), PlayStation 4, GOG (Galaxy SDK), VK Play (Fume) and Linux (Steam Deck)!
+
+   This is Valkyrie Initiative's first PlayStation 4 release, Mondealy was the *second* release due to sudden release date changes.
 
 ## Native extensions for GameMaker
 
